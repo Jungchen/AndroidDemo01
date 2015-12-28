@@ -1,0 +1,1193 @@
+14:25:26.537 [Worker-2] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:25:27.260 [Worker-2] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:25:49.6 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:26:38.510 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:26:58.521 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:27:27.506 [Worker-5] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:27:31.561 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:27:36.341 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:27:38.990 [Worker-4] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:27:43.59 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:27:44.695 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:27:45.695 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:27:54.649 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:27:58.336 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:28:11.113 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:28:12.645 [Worker-4] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:28:16.42 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:28:53.826 [Worker-5] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:29:56.956 [Worker-4] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:30:52.332 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:31:00.37 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:31:10.293 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:13:39.543 [Worker-17] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:15:09.940 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:15:54.678 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:15:54.680 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:15:54.701 [Worker-13] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:15:54.704 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:15:54.706 [Worker-13] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:15:54.720 [Worker-13] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:15:54.743 [Worker-13] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:15:54.743 [Worker-13] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:15:54.753 [Worker-13] ERROR o.a.h.AnnotationHelper:128 - The AndroidManifest.xml file contains the original component, and not the AndroidAnnotations generated component. Please register MainActivity_ instead of MainActivity
+15:15:54.753 [Worker-13] WARN  o.a.p.ModelValidator:69 - Element EActivityHandler unvalidated by 
+15:15:54.753 [Worker-13] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:15:54.759 [Worker-13] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:15:54.782 [Worker-13] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:15:54.783 [Worker-13] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:15:54.787 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 0
+15:15:54.790 [Worker-13] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:15:54.793 [Worker-13] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 113 ms], [Process Annotations = 25 ms], [Find R Classes = 23 ms], [Validate Annotations = 19 ms], [Extract Annotations = 18 ms], [Generate Sources = 7 ms], [Extract Manifest = 5 ms], 
+15:15:54.793 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:16:01.544 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:16:01.546 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:16:01.560 [Worker-16] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:16:01.564 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:16:01.565 [Worker-16] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:16:01.576 [Worker-16] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:16:01.584 [Worker-16] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:16:01.585 [Worker-16] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:16:01.586 [Worker-16] ERROR o.a.h.AnnotationHelper:128 - @org.androidannotations.annotations.EActivity can only be used on an element that extends android.app.Activity
+15:16:01.586 [Worker-16] ERROR o.a.h.AnnotationHelper:128 - The AndroidManifest.xml file contains the original component, and not the AndroidAnnotations generated component. Please register MainActivity_ instead of MainActivity
+15:16:01.587 [Worker-16] WARN  o.a.p.ModelValidator:69 - Element EActivityHandler unvalidated by 
+15:16:01.587 [Worker-16] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:16:01.589 [Worker-16] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:16:01.590 [Worker-16] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:16:01.591 [Worker-16] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:16:01.591 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 0
+15:16:01.592 [Worker-16] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:16:01.592 [Worker-16] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 46 ms], [Find R Classes = 19 ms], [Extract Annotations = 14 ms], [Validate Annotations = 6 ms], [Extract Manifest = 4 ms], [Process Annotations = 1 ms], [Generate Sources = 1 ms], 
+15:16:01.593 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:16:04.295 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:16:04.296 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:16:04.308 [Worker-19] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:16:04.309 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:16:04.310 [Worker-19] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:16:04.320 [Worker-19] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:16:04.324 [Worker-19] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:16:04.324 [Worker-19] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:16:04.325 [Worker-19] ERROR o.a.h.AnnotationHelper:128 - The AndroidManifest.xml file contains the original component, and not the AndroidAnnotations generated component. Please register MainActivity_ instead of MainActivity
+15:16:04.325 [Worker-19] WARN  o.a.p.ModelValidator:69 - Element EActivityHandler unvalidated by 
+15:16:04.326 [Worker-19] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:16:04.327 [Worker-19] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:16:04.327 [Worker-19] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:16:04.328 [Worker-19] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:16:04.328 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 0
+15:16:04.329 [Worker-19] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:16:04.329 [Worker-19] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 33 ms], [Find R Classes = 14 ms], [Extract Annotations = 11 ms], [Validate Annotations = 3 ms], [Extract Manifest = 1 ms], [Process Annotations = 1 ms], [Generate Sources = 1 ms], 
+15:16:04.330 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:16:30.422 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:16:38.626 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:16:38.627 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 15 elements
+15:16:38.651 [Worker-16] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:16:38.652 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:16:38.652 [Worker-16] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:16:38.659 [Worker-16] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:16:38.664 [Worker-16] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:16:38.665 [Worker-16] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:16:38.667 [Worker-16] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:16:38.668 [Worker-16] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:16:38.669 [Worker-16] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:16:38.670 [Worker-16] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:16:38.712 [Worker-16] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:16:38.727 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:16:38.728 [Worker-16] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:16:38.728 [Worker-16] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:16:38.752 [Worker-16] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 125 ms], [Process Annotations = 58 ms], [Generate Sources = 25 ms], [Extract Annotations = 23 ms], [Find R Classes = 12 ms], [Validate Annotations = 5 ms], [Extract Manifest = 1 ms], 
+15:16:38.753 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:17:10.693 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:17:10.695 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:17:10.710 [Worker-18] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:17:10.711 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:17:10.712 [Worker-18] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:17:10.720 [Worker-18] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:17:10.725 [Worker-18] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:17:10.726 [Worker-18] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:17:10.727 [Worker-18] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:17:10.728 [Worker-18] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:17:10.729 [Worker-18] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:17:10.729 [Worker-18] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:17:10.734 [Worker-18] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:17:10.736 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:17:10.737 [Worker-18] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:17:10.738 [Worker-18] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:17:10.742 [Worker-18] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 47 ms], [Extract Annotations = 13 ms], [Find R Classes = 13 ms], [Generate Sources = 7 ms], [Process Annotations = 6 ms], [Validate Annotations = 4 ms], [Extract Manifest = 1 ms], 
+15:17:10.742 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:17:20.736 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:17:20.738 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+15:17:20.747 [Worker-18] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:17:20.750 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:17:20.751 [Worker-18] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:17:20.754 [Worker-18] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:17:20.759 [Worker-18] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:17:20.760 [Worker-18] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:17:20.760 [Worker-18] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:17:20.761 [Worker-18] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:17:20.762 [Worker-18] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:17:20.762 [Worker-18] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:17:20.765 [Worker-18] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:17:20.766 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:17:20.766 [Worker-18] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:17:20.767 [Worker-18] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:17:20.770 [Worker-18] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 32 ms], [Extract Annotations = 9 ms], [Find R Classes = 8 ms], [Process Annotations = 4 ms], [Generate Sources = 4 ms], [Extract Manifest = 3 ms], [Validate Annotations = 3 ms], 
+15:17:20.771 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:17:54.13 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:17:54.14 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+15:17:54.22 [Worker-19] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:17:54.23 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:17:54.23 [Worker-19] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:17:54.26 [Worker-19] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:17:54.29 [Worker-19] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:17:54.30 [Worker-19] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:17:54.31 [Worker-19] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:17:54.32 [Worker-19] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:17:54.32 [Worker-19] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:17:54.33 [Worker-19] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:17:54.34 [Worker-19] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:17:54.35 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:17:54.35 [Worker-19] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:17:54.36 [Worker-19] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:17:54.38 [Worker-19] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 24 ms], [Extract Annotations = 8 ms], [Find R Classes = 6 ms], [Validate Annotations = 3 ms], [Process Annotations = 3 ms], [Generate Sources = 3 ms], [Extract Manifest = 1 ms], 
+15:17:54.38 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:18:19.784 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:18:19.785 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+15:18:19.795 [Worker-19] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:18:19.797 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:18:19.798 [Worker-19] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:18:19.801 [Worker-19] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:18:19.807 [Worker-19] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:18:19.807 [Worker-19] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:18:19.808 [Worker-19] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:18:19.809 [Worker-19] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:18:19.810 [Worker-19] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:18:19.810 [Worker-19] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:18:19.813 [Worker-19] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:18:19.814 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:18:19.815 [Worker-19] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:18:19.815 [Worker-19] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:18:19.818 [Worker-19] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 33 ms], [Extract Annotations = 9 ms], [Find R Classes = 8 ms], [Process Annotations = 4 ms], [Generate Sources = 4 ms], [Validate Annotations = 3 ms], [Extract Manifest = 2 ms], 
+15:18:19.819 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:18:46.925 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:18:46.926 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+15:18:46.937 [Worker-18] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:18:46.939 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:18:46.939 [Worker-18] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:18:46.942 [Worker-18] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:18:46.946 [Worker-18] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:18:46.947 [Worker-18] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:18:46.948 [Worker-18] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:18:46.949 [Worker-18] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:18:46.949 [Worker-18] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:18:46.950 [Worker-18] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:18:46.953 [Worker-18] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:18:46.954 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:18:46.955 [Worker-18] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:18:46.955 [Worker-18] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:18:46.958 [Worker-18] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 32 ms], [Extract Annotations = 10 ms], [Find R Classes = 7 ms], [Process Annotations = 5 ms], [Generate Sources = 4 ms], [Validate Annotations = 3 ms], [Extract Manifest = 2 ms], 
+15:18:46.959 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:21:09.94 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:22:20.962 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:22:38.198 [Worker-19] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:22:42.53 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:22:48.415 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:22:54.529 [Worker-20] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:23:20.622 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:23:36.476 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:23:44.557 [Worker-15] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:24:33.257 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:24:42.366 [Worker-18] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:24:44.414 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:24:53.53 [Worker-17] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:24:56.218 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:24:59.794 [Worker-16] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:25:25.670 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:25:25.701 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:25:25.717 [Worker-21] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:25:25.718 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:25:25.719 [Worker-21] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:25:25.723 [Worker-21] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:25:25.728 [Worker-21] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:25:25.729 [Worker-21] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:25:25.730 [Worker-21] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:25:25.730 [Worker-21] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:25:25.731 [Worker-21] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:25:25.731 [Worker-21] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:25:25.734 [Worker-21] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:25:25.735 [Worker-21] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with ViewByIdHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@6ebd90bb]
+15:25:25.735 [Worker-21] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with AfterViewsHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@35f51b97]
+15:25:25.736 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:25:25.737 [Worker-21] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:25:25.737 [Worker-21] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:25:25.741 [Worker-21] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 40 ms], [Extract Annotations = 15 ms], [Find R Classes = 9 ms], [Process Annotations = 6 ms], [Generate Sources = 5 ms], [Validate Annotations = 2 ms], [Extract Manifest = 1 ms], 
+15:25:25.741 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:29:38.892 [Worker-15] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:29:57.654 [Worker-15] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:30:14.628 [Worker-22] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:30:41.333 [Worker-25] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:31:16.600 [Worker-23] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:31:24.230 [Worker-22] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:31:32.700 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:33:06.551 [Worker-26] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:33:18.313 [Worker-27] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:33:33.421 [Worker-28] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:33:50.917 [Worker-25] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:34:36.38 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:34:36.39 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+15:34:36.49 [Worker-24] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:34:36.50 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:34:36.51 [Worker-24] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:34:36.53 [Worker-24] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:34:36.58 [Worker-24] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:34:36.59 [Worker-24] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:34:36.60 [Worker-24] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:34:36.61 [Worker-24] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:34:36.61 [Worker-24] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:34:36.62 [Worker-24] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:34:36.63 [Worker-24] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:34:36.64 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:34:36.65 [Worker-24] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:34:36.65 [Worker-24] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:34:36.68 [Worker-24] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 29 ms], [Extract Annotations = 9 ms], [Find R Classes = 7 ms], [Generate Sources = 4 ms], [Validate Annotations = 3 ms], [Process Annotations = 3 ms], [Extract Manifest = 1 ms], 
+15:34:36.68 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:34:55.97 [Worker-26] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:34:55.99 [Worker-26] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+15:34:55.107 [Worker-26] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:34:55.109 [Worker-26] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:34:55.109 [Worker-26] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:34:55.112 [Worker-26] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:34:55.117 [Worker-26] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:34:55.117 [Worker-26] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:34:55.118 [Worker-26] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:34:55.119 [Worker-26] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:34:55.119 [Worker-26] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:34:55.120 [Worker-26] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:34:55.122 [Worker-26] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:34:55.123 [Worker-26] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:34:55.124 [Worker-26] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:34:55.124 [Worker-26] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:34:55.126 [Worker-26] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 27 ms], [Extract Annotations = 8 ms], [Find R Classes = 7 ms], [Process Annotations = 4 ms], [Generate Sources = 3 ms], [Extract Manifest = 2 ms], [Validate Annotations = 2 ms], 
+15:34:55.127 [Worker-26] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:35:22.842 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:35:22.843 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+15:35:22.852 [Worker-24] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:35:22.854 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:35:22.854 [Worker-24] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:35:22.858 [Worker-24] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:35:22.862 [Worker-24] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:35:22.863 [Worker-24] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:35:22.863 [Worker-24] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:35:22.863 [Worker-24] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:35:22.863 [Worker-24] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:35:22.864 [Worker-24] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:35:22.866 [Worker-24] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:35:22.867 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:35:22.867 [Worker-24] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:35:22.868 [Worker-24] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:35:22.869 [Worker-24] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 26 ms], [Extract Annotations = 8 ms], [Find R Classes = 8 ms], [Process Annotations = 4 ms], [Extract Manifest = 2 ms], [Generate Sources = 2 ms], [Validate Annotations = 1 ms], 
+15:35:22.870 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:35:52.758 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:35:52.759 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+15:35:52.767 [Worker-24] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:35:52.768 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:35:52.769 [Worker-24] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:35:52.771 [Worker-24] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:35:52.775 [Worker-24] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:35:52.776 [Worker-24] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:35:52.777 [Worker-24] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:35:52.778 [Worker-24] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:35:52.779 [Worker-24] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:35:52.779 [Worker-24] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:35:52.782 [Worker-24] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:35:52.783 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:35:52.783 [Worker-24] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:35:52.784 [Worker-24] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:35:52.787 [Worker-24] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 28 ms], [Extract Annotations = 7 ms], [Find R Classes = 6 ms], [Process Annotations = 5 ms], [Generate Sources = 4 ms], [Validate Annotations = 3 ms], [Extract Manifest = 1 ms], 
+15:35:52.788 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:36:11.134 [Worker-28] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:36:11.135 [Worker-28] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+15:36:11.144 [Worker-28] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:36:11.145 [Worker-28] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:36:11.146 [Worker-28] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:36:11.149 [Worker-28] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:36:11.154 [Worker-28] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:36:11.154 [Worker-28] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:36:11.155 [Worker-28] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:36:11.156 [Worker-28] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:36:11.157 [Worker-28] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:36:11.157 [Worker-28] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:36:11.159 [Worker-28] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:36:11.160 [Worker-28] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:36:11.161 [Worker-28] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:36:11.161 [Worker-28] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:36:11.163 [Worker-28] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 28 ms], [Extract Annotations = 8 ms], [Find R Classes = 8 ms], [Validate Annotations = 3 ms], [Process Annotations = 3 ms], [Generate Sources = 3 ms], [Extract Manifest = 1 ms], 
+15:36:11.163 [Worker-28] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:36:15.598 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:36:15.599 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+15:36:15.608 [Worker-24] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:36:15.610 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:36:15.610 [Worker-24] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:36:15.612 [Worker-24] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:36:15.616 [Worker-24] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:36:15.617 [Worker-24] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:36:15.617 [Worker-24] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:36:15.618 [Worker-24] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:36:15.619 [Worker-24] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:36:15.619 [Worker-24] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:36:15.621 [Worker-24] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:36:15.622 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:36:15.622 [Worker-24] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:36:15.623 [Worker-24] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:36:15.625 [Worker-24] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 26 ms], [Extract Annotations = 8 ms], [Find R Classes = 6 ms], [Validate Annotations = 3 ms], [Process Annotations = 3 ms], [Generate Sources = 3 ms], [Extract Manifest = 2 ms], 
+15:36:15.625 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:44:23.683 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:44:23.772 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 8 elements
+15:44:23.797 [Worker-0] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:44:23.801 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:44:23.802 [Worker-0] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:44:23.827 [Worker-0] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:44:23.846 [Worker-0] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:44:23.847 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:44:23.851 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:44:23.855 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:44:23.867 [Worker-0] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:44:23.868 [Worker-0] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:44:23.904 [Worker-0] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:44:23.908 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:44:23.913 [Worker-0] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:44:23.916 [Worker-0] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:44:23.932 [Worker-0] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 161 ms], [Process Annotations = 50 ms], [Find R Classes = 35 ms], [Generate Sources = 26 ms], [Extract Annotations = 23 ms], [Validate Annotations = 10 ms], [Extract Manifest = 5 ms], 
+15:44:23.932 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:44:33.556 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:44:33.558 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 8 elements
+15:44:33.581 [Worker-3] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:44:33.583 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:44:33.584 [Worker-3] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:44:33.593 [Worker-3] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:44:33.601 [Worker-3] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:44:33.602 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:44:33.603 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:44:33.604 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:44:33.605 [Worker-3] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:44:33.606 [Worker-3] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:44:33.609 [Worker-3] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:44:33.609 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:44:33.610 [Worker-3] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:44:33.611 [Worker-3] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:44:33.617 [Worker-3] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 59 ms], [Extract Annotations = 19 ms], [Find R Classes = 17 ms], [Generate Sources = 8 ms], [Validate Annotations = 4 ms], [Process Annotations = 4 ms], [Extract Manifest = 3 ms], 
+15:44:33.618 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:44:58.589 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:45:23.795 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:45:23.797 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 8 elements
+15:45:23.831 [Worker-1] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:45:23.832 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:45:23.833 [Worker-1] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:45:23.841 [Worker-1] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:45:23.848 [Worker-1] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:45:23.849 [Worker-1] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:45:23.850 [Worker-1] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:45:23.851 [Worker-1] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:45:23.852 [Worker-1] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:45:23.853 [Worker-1] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:45:23.856 [Worker-1] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:45:23.859 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:45:23.860 [Worker-1] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:45:23.861 [Worker-1] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:45:23.872 [Worker-1] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 75 ms], [Extract Annotations = 32 ms], [Find R Classes = 15 ms], [Generate Sources = 13 ms], [Process Annotations = 7 ms], [Validate Annotations = 4 ms], [Extract Manifest = 2 ms], 
+15:45:23.873 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:45:59.505 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:46:06.474 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:46:27.451 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:46:34.889 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:46:44.656 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:47:03.409 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:47:18.653 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:47:23.843 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:47:34.274 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:47:42.509 [Worker-5] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:47:48.354 [Worker-6] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:47:54.802 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:48:00.357 [Worker-4] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:48:10.749 [Worker-2] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:48:19.535 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:49:28.985 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:49:39.611 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:50:28.322 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:50:28.323 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+15:50:28.333 [Worker-0] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:50:28.334 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:50:28.334 [Worker-0] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:50:28.339 [Worker-0] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:50:28.343 [Worker-0] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:50:28.344 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:50:28.345 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:50:28.346 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:50:28.347 [Worker-0] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:50:28.347 [Worker-0] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:50:28.351 [Worker-0] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:50:28.352 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:50:28.353 [Worker-0] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:50:28.353 [Worker-0] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:50:28.358 [Worker-0] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 35 ms], [Extract Annotations = 9 ms], [Find R Classes = 9 ms], [Generate Sources = 6 ms], [Process Annotations = 5 ms], [Validate Annotations = 4 ms], [Extract Manifest = 2 ms], 
+15:50:28.359 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:50:34.187 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:50:34.190 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:50:34.204 [Worker-0] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:50:34.206 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:50:34.206 [Worker-0] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:50:34.212 [Worker-0] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:50:34.216 [Worker-0] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:50:34.217 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:50:34.218 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:50:34.219 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:50:34.220 [Worker-0] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:50:34.221 [Worker-0] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:50:34.223 [Worker-0] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:50:34.224 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:50:34.224 [Worker-0] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:50:34.225 [Worker-0] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:50:34.228 [Worker-0] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 38 ms], [Extract Annotations = 13 ms], [Find R Classes = 10 ms], [Validate Annotations = 4 ms], [Process Annotations = 4 ms], [Generate Sources = 4 ms], [Extract Manifest = 2 ms], 
+15:50:34.228 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:50:38.491 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:50:38.510 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:50:38.523 [Worker-11] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:50:38.525 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:50:38.526 [Worker-11] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:50:38.533 [Worker-11] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:50:38.538 [Worker-11] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:50:38.539 [Worker-11] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:50:38.540 [Worker-11] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:50:38.541 [Worker-11] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:50:38.542 [Worker-11] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:50:38.543 [Worker-11] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:50:38.546 [Worker-11] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:50:38.547 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:50:38.547 [Worker-11] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:50:38.548 [Worker-11] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:50:38.551 [Worker-11] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 41 ms], [Extract Annotations = 12 ms], [Find R Classes = 12 ms], [Process Annotations = 5 ms], [Validate Annotations = 4 ms], [Generate Sources = 4 ms], [Extract Manifest = 2 ms], 
+15:50:38.552 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:50:41.127 [Worker-6] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:50:41.129 [Worker-6] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:50:41.140 [Worker-6] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:50:41.141 [Worker-6] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:50:41.142 [Worker-6] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:50:41.148 [Worker-6] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:50:41.153 [Worker-6] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:50:41.154 [Worker-6] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:50:41.154 [Worker-6] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:50:41.156 [Worker-6] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:50:41.156 [Worker-6] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:50:41.157 [Worker-6] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:50:41.160 [Worker-6] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:50:41.161 [Worker-6] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:50:41.161 [Worker-6] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:50:41.162 [Worker-6] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:50:41.164 [Worker-6] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 35 ms], [Find R Classes = 11 ms], [Extract Annotations = 9 ms], [Process Annotations = 5 ms], [Validate Annotations = 3 ms], [Generate Sources = 3 ms], [Extract Manifest = 2 ms], 
+15:50:41.165 [Worker-6] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:50:48.840 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:50:48.841 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:50:48.853 [Worker-7] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:50:48.854 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:50:48.855 [Worker-7] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:50:48.860 [Worker-7] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:50:48.865 [Worker-7] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:50:48.866 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:50:48.866 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:50:48.867 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:50:48.868 [Worker-7] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:50:48.869 [Worker-7] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:50:48.872 [Worker-7] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:50:48.874 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:50:48.874 [Worker-7] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:50:48.875 [Worker-7] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:50:48.878 [Worker-7] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 37 ms], [Find R Classes = 10 ms], [Extract Annotations = 9 ms], [Process Annotations = 6 ms], [Generate Sources = 4 ms], [Extract Manifest = 3 ms], [Validate Annotations = 3 ms], 
+15:50:48.878 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:51:04.29 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:51:04.76 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 5 elements
+15:51:04.94 [Worker-9] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:51:04.96 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:51:04.96 [Worker-9] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:51:04.100 [Worker-9] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:51:04.106 [Worker-9] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:51:04.107 [Worker-9] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:04.108 [Worker-9] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:51:04.108 [Worker-9] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:51:04.109 [Worker-9] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:51:04.110 [Worker-9] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:04.112 [Worker-9] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:51:04.112 [Worker-9] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with ViewByIdHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@36961a09]
+15:51:04.113 [Worker-9] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with AfterViewsHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@6aa09f01]
+15:51:04.113 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:51:04.114 [Worker-9] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:51:04.114 [Worker-9] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:51:04.117 [Worker-9] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 41 ms], [Extract Annotations = 17 ms], [Find R Classes = 10 ms], [Process Annotations = 4 ms], [Generate Sources = 4 ms], [Validate Annotations = 3 ms], [Extract Manifest = 2 ms], 
+15:51:04.117 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:51:09.123 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:51:09.180 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 5 elements
+15:51:09.192 [Worker-7] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:51:09.193 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:51:09.194 [Worker-7] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:51:09.196 [Worker-7] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:51:09.201 [Worker-7] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:51:09.202 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:09.202 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:51:09.203 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:51:09.204 [Worker-7] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:51:09.205 [Worker-7] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:09.207 [Worker-7] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:51:09.207 [Worker-7] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with ViewByIdHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@359ad468]
+15:51:09.208 [Worker-7] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with AfterViewsHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@2898dfdb]
+15:51:09.208 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:51:09.209 [Worker-7] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:51:09.209 [Worker-7] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:51:09.212 [Worker-7] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 32 ms], [Extract Annotations = 10 ms], [Find R Classes = 7 ms], [Process Annotations = 4 ms], [Generate Sources = 4 ms], [Validate Annotations = 3 ms], [Extract Manifest = 2 ms], 
+15:51:09.212 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:51:14.649 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:51:14.650 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:51:14.660 [Worker-1] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:51:14.662 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:51:14.662 [Worker-1] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:51:14.669 [Worker-1] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:51:14.673 [Worker-1] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:51:14.673 [Worker-1] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:14.674 [Worker-1] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:51:14.675 [Worker-1] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:51:14.676 [Worker-1] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:51:14.677 [Worker-1] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:14.679 [Worker-1] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:51:14.680 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:51:14.680 [Worker-1] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:51:14.681 [Worker-1] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:51:14.683 [Worker-1] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 33 ms], [Find R Classes = 11 ms], [Extract Annotations = 9 ms], [Process Annotations = 4 ms], [Validate Annotations = 3 ms], [Generate Sources = 3 ms], [Extract Manifest = 2 ms], 
+15:51:14.684 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:51:19.522 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:51:19.523 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:51:19.532 [Worker-3] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:51:19.534 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:51:19.534 [Worker-3] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:51:19.541 [Worker-3] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:51:19.544 [Worker-3] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:51:19.545 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:19.546 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:51:19.547 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:51:19.548 [Worker-3] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:51:19.548 [Worker-3] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:19.551 [Worker-3] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:51:19.552 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:51:19.552 [Worker-3] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:51:19.553 [Worker-3] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:51:19.555 [Worker-3] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 32 ms], [Find R Classes = 10 ms], [Extract Annotations = 9 ms], [Validate Annotations = 4 ms], [Process Annotations = 4 ms], [Generate Sources = 3 ms], [Extract Manifest = 2 ms], 
+15:51:19.556 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:51:22.73 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:51:22.73 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:51:22.82 [Worker-9] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:51:22.84 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:51:22.84 [Worker-9] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:51:22.89 [Worker-9] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:51:22.92 [Worker-9] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:51:22.92 [Worker-9] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:22.93 [Worker-9] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:51:22.94 [Worker-9] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:51:22.94 [Worker-9] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:51:22.95 [Worker-9] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:22.97 [Worker-9] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:51:22.98 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:51:22.98 [Worker-9] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:51:22.98 [Worker-9] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:51:22.101 [Worker-9] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 28 ms], [Extract Annotations = 9 ms], [Find R Classes = 8 ms], [Process Annotations = 4 ms], [Generate Sources = 3 ms], [Extract Manifest = 2 ms], [Validate Annotations = 2 ms], 
+15:51:22.102 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:51:25.541 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:51:25.542 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:51:25.551 [Worker-11] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:51:25.553 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:51:25.553 [Worker-11] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:51:25.557 [Worker-11] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:51:25.560 [Worker-11] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:51:25.561 [Worker-11] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:25.561 [Worker-11] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:51:25.562 [Worker-11] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:51:25.563 [Worker-11] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:51:25.563 [Worker-11] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:25.566 [Worker-11] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:51:25.567 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:51:25.567 [Worker-11] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:51:25.568 [Worker-11] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:51:25.570 [Worker-11] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 28 ms], [Extract Annotations = 9 ms], [Find R Classes = 7 ms], [Process Annotations = 4 ms], [Validate Annotations = 3 ms], [Generate Sources = 3 ms], [Extract Manifest = 2 ms], 
+15:51:25.570 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:51:40.148 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:51:40.183 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 5 elements
+15:51:40.194 [Worker-1] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:51:40.195 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:51:40.196 [Worker-1] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:51:40.200 [Worker-1] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:51:40.205 [Worker-1] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:51:40.206 [Worker-1] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:40.206 [Worker-1] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:51:40.207 [Worker-1] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:51:40.207 [Worker-1] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:51:40.207 [Worker-1] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:40.209 [Worker-1] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:51:40.210 [Worker-1] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with ViewByIdHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@1d34f5eb]
+15:51:40.211 [Worker-1] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with AfterViewsHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@2e5bf578]
+15:51:40.212 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:51:40.212 [Worker-1] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:51:40.213 [Worker-1] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:51:40.215 [Worker-1] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 32 ms], [Extract Annotations = 9 ms], [Find R Classes = 9 ms], [Process Annotations = 5 ms], [Generate Sources = 3 ms], [Extract Manifest = 2 ms], [Validate Annotations = 2 ms], 
+15:51:40.215 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:51:42.515 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:51:42.516 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:51:42.526 [Worker-3] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:51:42.527 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:51:42.528 [Worker-3] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:51:42.533 [Worker-3] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:51:42.537 [Worker-3] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:51:42.538 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:42.539 [Worker-3] ERROR o.a.h.AnnotationHelper:128 - Resource id value not found in R.layout: 0
+15:51:42.539 [Worker-3] WARN  o.a.p.ModelValidator:69 - Element EActivityHandler unvalidated by 
+15:51:42.539 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:51:42.540 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:51:42.541 [Worker-3] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:51:42.542 [Worker-3] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:51:42.542 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 0
+15:51:42.543 [Worker-3] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:51:42.543 [Worker-3] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 27 ms], [Extract Annotations = 9 ms], [Find R Classes = 9 ms], [Validate Annotations = 4 ms], [Extract Manifest = 1 ms], [Process Annotations = 1 ms], [Generate Sources = 1 ms], 
+15:51:42.544 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:51:44.222 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:51:44.223 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:51:44.231 [Worker-9] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:51:44.232 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:51:44.233 [Worker-9] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:51:44.238 [Worker-9] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:51:44.241 [Worker-9] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:51:44.242 [Worker-9] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:44.243 [Worker-9] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:51:44.243 [Worker-9] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:51:44.244 [Worker-9] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:51:44.244 [Worker-9] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:51:44.247 [Worker-9] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:51:44.248 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:51:44.249 [Worker-9] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:51:44.249 [Worker-9] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:51:44.255 [Worker-9] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 32 ms], [Extract Annotations = 8 ms], [Find R Classes = 8 ms], [Generate Sources = 7 ms], [Process Annotations = 4 ms], [Validate Annotations = 3 ms], [Extract Manifest = 1 ms], 
+15:51:44.256 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:51:57.461 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:52:12.661 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:52:18.841 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:52:23.469 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:52:25.167 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:52:27.766 [Worker-2] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:53:02.764 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:53:05.996 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:53:15.129 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:53:21.741 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:53:28.355 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:53:37.314 [Worker-9] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:53:42.154 [Worker-2] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:53:59.206 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:54:50.451 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:54:50.490 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 5 elements
+15:54:50.504 [Worker-3] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:54:50.506 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:54:50.507 [Worker-3] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:54:50.510 [Worker-3] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:54:50.514 [Worker-3] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:54:50.515 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:54:50.516 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:54:50.517 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:54:50.517 [Worker-3] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:54:50.518 [Worker-3] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:54:50.520 [Worker-3] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:54:50.520 [Worker-3] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with ViewByIdHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@4f97bcb9]
+15:54:50.521 [Worker-3] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with AfterViewsHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@1baa852]
+15:54:50.522 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:54:50.522 [Worker-3] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:54:50.522 [Worker-3] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:54:50.524 [Worker-3] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 34 ms], [Extract Annotations = 13 ms], [Find R Classes = 7 ms], [Process Annotations = 5 ms], [Validate Annotations = 3 ms], [Extract Manifest = 2 ms], [Generate Sources = 2 ms], 
+15:54:50.525 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:54:58.164 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:54:58.166 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:54:58.187 [Worker-0] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:54:58.189 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:54:58.189 [Worker-0] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:54:58.195 [Worker-0] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:54:58.199 [Worker-0] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:54:58.200 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:54:58.201 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:54:58.202 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:54:58.203 [Worker-0] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:54:58.203 [Worker-0] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:54:58.205 [Worker-0] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:54:58.206 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:54:58.207 [Worker-0] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:54:58.207 [Worker-0] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:54:58.209 [Worker-0] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 43 ms], [Extract Annotations = 20 ms], [Find R Classes = 10 ms], [Validate Annotations = 4 ms], [Process Annotations = 3 ms], [Generate Sources = 3 ms], [Extract Manifest = 2 ms], 
+15:54:58.210 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:55:02.687 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:55:02.688 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:55:02.698 [Worker-10] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:55:02.700 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:55:02.700 [Worker-10] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:55:02.704 [Worker-10] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:55:02.708 [Worker-10] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:55:02.708 [Worker-10] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:55:02.709 [Worker-10] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+15:55:02.710 [Worker-10] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:55:02.711 [Worker-10] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:55:02.711 [Worker-10] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:55:02.714 [Worker-10] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:55:02.715 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:55:02.715 [Worker-10] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:55:02.716 [Worker-10] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:55:02.717 [Worker-10] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 29 ms], [Extract Annotations = 9 ms], [Find R Classes = 7 ms], [Process Annotations = 4 ms], [Validate Annotations = 3 ms], [Extract Manifest = 2 ms], [Generate Sources = 2 ms], 
+15:55:02.718 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:55:08.584 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:55:08.585 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:55:08.594 [Worker-7] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:55:08.595 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:55:08.596 [Worker-7] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:55:08.600 [Worker-7] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:55:08.604 [Worker-7] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:55:08.605 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:55:08.605 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [listview, refreshLayout]
+15:55:08.607 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:55:08.608 [Worker-7] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:55:08.608 [Worker-7] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:55:08.611 [Worker-7] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:55:08.612 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:55:08.613 [Worker-7] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:55:08.614 [Worker-7] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:55:08.621 [Worker-7] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 36 ms], [Generate Sources = 9 ms], [Extract Annotations = 8 ms], [Find R Classes = 8 ms], [Process Annotations = 5 ms], [Validate Annotations = 3 ms], [Extract Manifest = 1 ms], 
+15:55:08.622 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:55:28.417 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:55:28.418 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:55:28.427 [Worker-7] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:55:28.428 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:55:28.429 [Worker-7] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:55:28.433 [Worker-7] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:55:28.437 [Worker-7] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:55:28.437 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:55:28.438 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout, listview]
+15:55:28.440 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:55:28.441 [Worker-7] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:55:28.441 [Worker-7] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:55:28.443 [Worker-7] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:55:28.444 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:55:28.445 [Worker-7] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:55:28.445 [Worker-7] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:55:28.451 [Worker-7] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 33 ms], [Extract Annotations = 9 ms], [Find R Classes = 8 ms], [Generate Sources = 7 ms], [Process Annotations = 4 ms], [Validate Annotations = 3 ms], [Extract Manifest = 1 ms], 
+15:55:28.452 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:57:14.611 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:57:14.613 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+15:57:14.628 [Worker-0] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:57:14.631 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:57:14.632 [Worker-0] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:57:14.638 [Worker-0] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:57:14.643 [Worker-0] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:57:14.643 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:57:14.644 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout, listview]
+15:57:14.647 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:57:14.648 [Worker-0] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:57:14.649 [Worker-0] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:57:14.651 [Worker-0] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:57:14.652 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:57:14.653 [Worker-0] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:57:14.653 [Worker-0] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:57:14.656 [Worker-0] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 42 ms], [Extract Annotations = 13 ms], [Find R Classes = 10 ms], [Validate Annotations = 5 ms], [Extract Manifest = 4 ms], [Process Annotations = 4 ms], [Generate Sources = 3 ms], 
+15:57:14.656 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+15:58:31.594 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+15:58:31.596 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+15:58:31.607 [Worker-11] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+15:58:31.609 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+15:58:31.609 [Worker-11] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+15:58:31.612 [Worker-11] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+15:58:31.618 [Worker-11] INFO  o.a.p.ModelValidator:42 - Validating elements
+15:58:31.620 [Worker-11] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:58:31.620 [Worker-11] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [listview, refreshLayout]
+15:58:31.623 [Worker-11] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+15:58:31.623 [Worker-11] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+15:58:31.623 [Worker-11] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+15:58:31.625 [Worker-11] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+15:58:31.626 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+15:58:31.626 [Worker-11] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+15:58:31.627 [Worker-11] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+15:58:31.638 [Worker-11] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 42 ms], [Generate Sources = 12 ms], [Extract Annotations = 10 ms], [Find R Classes = 9 ms], [Validate Annotations = 5 ms], [Process Annotations = 3 ms], [Extract Manifest = 2 ms], 
+15:58:31.639 [Worker-11] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+16:01:24.194 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:01:55.188 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:01:58.238 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:02:37.595 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:02:37.596 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 2 elements
+16:02:37.607 [Worker-0] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+16:02:37.609 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+16:02:37.610 [Worker-0] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+16:02:37.613 [Worker-0] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+16:02:37.617 [Worker-0] INFO  o.a.p.ModelValidator:42 - Validating elements
+16:02:37.617 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:02:37.618 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [listview, refreshLayout]
+16:02:37.622 [Worker-0] ERROR o.a.h.AnnotationHelper:128 - @org.androidannotations.annotations.ViewById can only be used on an element that extends android.view.View
+16:02:37.622 [Worker-0] WARN  o.a.p.ModelValidator:69 - Element ViewByIdHandler unvalidated by 
+16:02:37.623 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+16:02:37.624 [Worker-0] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+16:02:37.625 [Worker-0] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:02:37.627 [Worker-0] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+16:02:37.628 [Worker-0] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with ViewByIdHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@2202b998, org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@2873adfc]
+16:02:37.629 [Worker-0] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with AfterViewsHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@13f93f83]
+16:02:37.630 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+16:02:37.630 [Worker-0] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+16:02:37.631 [Worker-0] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+16:02:37.639 [Worker-0] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 43 ms], [Extract Annotations = 10 ms], [Generate Sources = 9 ms], [Find R Classes = 7 ms], [Validate Annotations = 7 ms], [Process Annotations = 6 ms], [Extract Manifest = 2 ms], 
+16:02:37.640 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+16:02:53.839 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:03:16.267 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:03:16.300 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 5 elements
+16:03:16.312 [Worker-13] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+16:03:16.314 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+16:03:16.314 [Worker-13] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+16:03:16.316 [Worker-13] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+16:03:16.320 [Worker-13] INFO  o.a.p.ModelValidator:42 - Validating elements
+16:03:16.321 [Worker-13] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:03:16.321 [Worker-13] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [listview, refreshLayout]
+16:03:16.321 [Worker-13] ERROR o.a.h.AnnotationHelper:128 - @org.androidannotations.annotations.ViewById can only be used on an element that extends android.view.View
+16:03:16.322 [Worker-13] WARN  o.a.p.ModelValidator:69 - Element ViewByIdHandler unvalidated by 
+16:03:16.322 [Worker-13] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+16:03:16.322 [Worker-13] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+16:03:16.323 [Worker-13] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:03:16.325 [Worker-13] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+16:03:16.326 [Worker-13] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with ViewByIdHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@105ce469, org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@19c73650]
+16:03:16.326 [Worker-13] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with AfterViewsHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@59d080f6]
+16:03:16.326 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+16:03:16.327 [Worker-13] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+16:03:16.327 [Worker-13] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+16:03:16.329 [Worker-13] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 29 ms], [Extract Annotations = 11 ms], [Find R Classes = 6 ms], [Process Annotations = 4 ms], [Generate Sources = 3 ms], [Extract Manifest = 2 ms], [Validate Annotations = 2 ms], 
+16:03:16.330 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+16:03:35.489 [Worker-12] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:03:35.533 [Worker-12] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 5 elements
+16:03:35.547 [Worker-12] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+16:03:35.549 [Worker-12] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+16:03:35.550 [Worker-12] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+16:03:35.552 [Worker-12] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+16:03:35.557 [Worker-12] INFO  o.a.p.ModelValidator:42 - Validating elements
+16:03:35.558 [Worker-12] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:03:35.559 [Worker-12] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout, listview]
+16:03:35.560 [Worker-12] ERROR o.a.h.AnnotationHelper:128 - @org.androidannotations.annotations.ViewById can only be used on an element that extends android.view.View
+16:03:35.560 [Worker-12] WARN  o.a.p.ModelValidator:69 - Element ViewByIdHandler unvalidated by 
+16:03:35.560 [Worker-12] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+16:03:35.561 [Worker-12] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+16:03:35.561 [Worker-12] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:03:35.563 [Worker-12] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+16:03:35.564 [Worker-12] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with ViewByIdHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@67e39819, org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@2c78a655]
+16:03:35.565 [Worker-12] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with AfterViewsHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@3dec3ed0]
+16:03:35.565 [Worker-12] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+16:03:35.566 [Worker-12] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+16:03:35.566 [Worker-12] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+16:03:35.568 [Worker-12] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 35 ms], [Extract Annotations = 14 ms], [Find R Classes = 7 ms], [Validate Annotations = 4 ms], [Process Annotations = 4 ms], [Generate Sources = 3 ms], [Extract Manifest = 2 ms], 
+16:03:35.569 [Worker-12] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+16:03:41.798 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:03:41.799 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+16:03:41.808 [Worker-13] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+16:03:41.809 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+16:03:41.810 [Worker-13] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+16:03:41.814 [Worker-13] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+16:03:41.817 [Worker-13] INFO  o.a.p.ModelValidator:42 - Validating elements
+16:03:41.818 [Worker-13] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:03:41.818 [Worker-13] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [listview, refreshLayout]
+16:03:41.821 [Worker-13] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+16:03:41.821 [Worker-13] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+16:03:41.822 [Worker-13] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:03:41.824 [Worker-13] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+16:03:41.825 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+16:03:41.826 [Worker-13] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+16:03:41.826 [Worker-13] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+16:03:41.834 [Worker-13] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 34 ms], [Extract Annotations = 9 ms], [Generate Sources = 8 ms], [Find R Classes = 7 ms], [Validate Annotations = 4 ms], [Process Annotations = 4 ms], [Extract Manifest = 1 ms], 
+16:03:41.834 [Worker-13] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+16:04:15.847 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:04:15.848 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+16:04:15.855 [Worker-10] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+16:04:15.856 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+16:04:15.856 [Worker-10] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+16:04:15.859 [Worker-10] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+16:04:15.862 [Worker-10] INFO  o.a.p.ModelValidator:42 - Validating elements
+16:04:15.863 [Worker-10] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:04:15.863 [Worker-10] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout, listview]
+16:04:15.865 [Worker-10] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+16:04:15.866 [Worker-10] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+16:04:15.867 [Worker-10] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:04:15.869 [Worker-10] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+16:04:15.870 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+16:04:15.871 [Worker-10] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+16:04:15.871 [Worker-10] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+16:04:15.878 [Worker-10] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 30 ms], [Generate Sources = 8 ms], [Extract Annotations = 7 ms], [Find R Classes = 6 ms], [Validate Annotations = 4 ms], [Process Annotations = 4 ms], [Extract Manifest = 1 ms], 
+16:04:15.879 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+16:04:19.156 [Worker-12] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:04:19.157 [Worker-12] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+16:04:19.165 [Worker-12] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+16:04:19.167 [Worker-12] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+16:04:19.168 [Worker-12] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+16:04:19.170 [Worker-12] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+16:04:19.174 [Worker-12] INFO  o.a.p.ModelValidator:42 - Validating elements
+16:04:19.175 [Worker-12] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:04:19.175 [Worker-12] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+16:04:19.176 [Worker-12] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+16:04:19.177 [Worker-12] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+16:04:19.177 [Worker-12] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:04:19.180 [Worker-12] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+16:04:19.181 [Worker-12] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+16:04:19.181 [Worker-12] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+16:04:19.181 [Worker-12] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+16:04:19.189 [Worker-12] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 32 ms], [Generate Sources = 8 ms], [Extract Annotations = 7 ms], [Find R Classes = 6 ms], [Process Annotations = 4 ms], [Validate Annotations = 3 ms], [Extract Manifest = 2 ms], 
+16:04:19.190 [Worker-12] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+16:04:25.24 [Worker-6] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:04:25.27 [Worker-6] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 3 elements
+16:04:25.36 [Worker-6] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+16:04:25.38 [Worker-6] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+16:04:25.38 [Worker-6] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+16:04:25.44 [Worker-6] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+16:04:25.47 [Worker-6] INFO  o.a.p.ModelValidator:42 - Validating elements
+16:04:25.48 [Worker-6] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:04:25.49 [Worker-6] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+16:04:25.49 [Worker-6] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+16:04:25.50 [Worker-6] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+16:04:25.51 [Worker-6] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:04:25.53 [Worker-6] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+16:04:25.54 [Worker-6] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+16:04:25.54 [Worker-6] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+16:04:25.55 [Worker-6] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+16:04:25.57 [Worker-6] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 30 ms], [Extract Annotations = 9 ms], [Find R Classes = 9 ms], [Process Annotations = 4 ms], [Validate Annotations = 3 ms], [Generate Sources = 3 ms], [Extract Manifest = 2 ms], 
+16:04:25.58 [Worker-6] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+16:06:14.323 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:06:59.337 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:08:29.48 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:08:29.105 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 5 elements
+16:08:29.119 [Worker-8] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+16:08:29.121 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+16:08:29.122 [Worker-8] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+16:08:29.125 [Worker-8] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+16:08:29.130 [Worker-8] INFO  o.a.p.ModelValidator:42 - Validating elements
+16:08:29.131 [Worker-8] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:08:29.131 [Worker-8] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+16:08:29.132 [Worker-8] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+16:08:29.133 [Worker-8] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+16:08:29.134 [Worker-8] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:08:29.136 [Worker-8] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+16:08:29.137 [Worker-8] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with ViewByIdHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@11f09419]
+16:08:29.138 [Worker-8] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with AfterViewsHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@60bc06c6]
+16:08:29.138 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+16:08:29.139 [Worker-8] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+16:08:29.139 [Worker-8] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+16:08:29.141 [Worker-8] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 36 ms], [Extract Annotations = 14 ms], [Find R Classes = 8 ms], [Process Annotations = 5 ms], [Validate Annotations = 3 ms], [Generate Sources = 3 ms], [Extract Manifest = 2 ms], 
+16:08:29.142 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+16:10:06.573 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:10:06.623 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 5 elements
+16:10:06.638 [Worker-8] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+16:10:06.640 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+16:10:06.641 [Worker-8] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+16:10:06.645 [Worker-8] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+16:10:06.650 [Worker-8] INFO  o.a.p.ModelValidator:42 - Validating elements
+16:10:06.652 [Worker-8] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:10:06.653 [Worker-8] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+16:10:06.655 [Worker-8] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+16:10:06.655 [Worker-8] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+16:10:06.656 [Worker-8] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+16:10:06.658 [Worker-8] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+16:10:06.659 [Worker-8] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with ViewByIdHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@224387b3]
+16:10:06.660 [Worker-8] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with AfterViewsHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@565c6af6]
+16:10:06.660 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+16:10:06.661 [Worker-8] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+16:10:06.661 [Worker-8] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+16:10:06.664 [Worker-8] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 41 ms], [Extract Annotations = 15 ms], [Find R Classes = 9 ms], [Validate Annotations = 5 ms], [Process Annotations = 5 ms], [Generate Sources = 4 ms], [Extract Manifest = 2 ms], 
+16:10:06.665 [Worker-8] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+16:11:26.95 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:12:17.571 [Worker-1] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:53:53.421 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:54:02.411 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:55:06.638 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:56:05.121 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:56:08.868 [Worker-22] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:58:07.880 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:58:49.618 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+16:58:59.928 [Worker-20] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:00:02.856 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:00:06.709 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:00:13.819 [Worker-23] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:00:56.421 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:00:56.423 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+17:00:56.438 [Worker-21] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+17:00:56.439 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+17:00:56.439 [Worker-21] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+17:00:56.443 [Worker-21] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+17:00:56.448 [Worker-21] INFO  o.a.p.ModelValidator:42 - Validating elements
+17:00:56.449 [Worker-21] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+17:00:56.449 [Worker-21] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+17:00:56.450 [Worker-21] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+17:00:56.451 [Worker-21] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+17:00:56.451 [Worker-21] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+17:00:56.454 [Worker-21] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+17:00:56.454 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+17:00:56.454 [Worker-21] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+17:00:56.455 [Worker-21] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+17:00:56.457 [Worker-21] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 34 ms], [Extract Annotations = 13 ms], [Find R Classes = 9 ms], [Validate Annotations = 3 ms], [Process Annotations = 3 ms], [Generate Sources = 3 ms], [Extract Manifest = 2 ms], 
+17:00:56.457 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+17:01:50.993 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:02:08.563 [Worker-25] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:02:16.440 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:03:10.890 [Worker-23] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:03:22.669 [Worker-23] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:03:26.78 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:03:39.462 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:03:51.384 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:04:01.339 [Worker-25] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:04:11.291 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:04:14.552 [Worker-10] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:04:28.632 [Worker-21] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:04:38.847 [Worker-24] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:06:02.769 [Worker-22] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:06:10.638 [Worker-27] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+17:06:15.163 [Worker-28] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:12:26.538 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:12:26.602 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 27 elements
+14:12:26.634 [Worker-7] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+14:12:26.634 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+14:12:26.638 [Worker-7] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+14:12:26.646 [Worker-7] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+14:12:26.666 [Worker-7] INFO  o.a.p.ModelValidator:42 - Validating elements
+14:12:26.666 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+14:12:26.670 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+14:12:26.670 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+14:12:26.682 [Worker-7] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+14:12:26.682 [Worker-7] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+14:12:26.710 [Worker-7] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+14:12:26.710 [Worker-7] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with ViewByIdHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@3ec09871]
+14:12:26.710 [Worker-7] DEBUG o.a.p.ModelProcessor:98 - Processing enclosed elements with AfterViewsHandler: [org.androidannotations.model.AnnotationElements$AnnotatedAndRootElements@23ea96eb]
+14:12:26.714 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+14:12:26.714 [Worker-7] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+14:12:26.718 [Worker-7] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+14:12:26.726 [Worker-7] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 124 ms], [Process Annotations = 40 ms], [Extract Annotations = 24 ms], [Find R Classes = 16 ms], [Generate Sources = 12 ms], [Validate Annotations = 8 ms], [Extract Manifest = 4 ms], 
+14:12:26.730 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+14:12:43.352 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+14:12:43.352 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 26 elements
+14:12:43.384 [Worker-7] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+14:12:43.384 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+14:12:43.384 [Worker-7] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+14:12:43.384 [Worker-7] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+14:12:43.399 [Worker-7] INFO  o.a.p.ModelValidator:42 - Validating elements
+14:12:43.401 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+14:12:43.401 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+14:12:43.401 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+14:12:43.401 [Worker-7] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+14:12:43.401 [Worker-7] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+14:12:43.401 [Worker-7] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+14:12:43.401 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+14:12:43.401 [Worker-7] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+14:12:43.401 [Worker-7] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+14:12:43.401 [Worker-7] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 49 ms], [Extract Annotations = 32 ms], [Find R Classes = 15 ms], [Validate Annotations = 2 ms], [Extract Manifest = 0 ms], [Process Annotations = 0 ms], [Generate Sources = 0 ms], 
+14:12:43.401 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+10:22:00.756 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+10:22:00.866 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 26 elements
+10:22:00.897 [Worker-3] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+10:22:00.897 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+10:22:00.912 [Worker-3] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+10:22:00.912 [Worker-3] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+10:22:00.928 [Worker-3] INFO  o.a.p.ModelValidator:42 - Validating elements
+10:22:00.928 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+10:22:00.928 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+10:22:00.944 [Worker-3] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+10:22:00.944 [Worker-3] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+10:22:00.944 [Worker-3] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+10:22:00.975 [Worker-3] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+10:22:00.991 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+10:22:00.991 [Worker-3] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+10:22:00.991 [Worker-3] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+10:22:01.22 [Worker-3] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 156 ms], [Process Annotations = 47 ms], [Extract Annotations = 31 ms], [Generate Sources = 31 ms], [Find R Classes = 16 ms], [Validate Annotations = 16 ms], [Extract Manifest = 0 ms], 
+10:22:01.22 [Worker-3] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+10:22:53.178 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+10:23:18.39 [Worker-4] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+10:23:18.39 [Worker-4] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 26 elements
+10:23:18.55 [Worker-4] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+10:23:18.55 [Worker-4] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+10:23:18.55 [Worker-4] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+10:23:18.70 [Worker-4] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+10:23:18.70 [Worker-4] INFO  o.a.p.ModelValidator:42 - Validating elements
+10:23:18.70 [Worker-4] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+10:23:18.70 [Worker-4] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+10:23:18.70 [Worker-4] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+10:23:18.70 [Worker-4] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+10:23:18.70 [Worker-4] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+10:23:18.70 [Worker-4] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+10:23:18.70 [Worker-4] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+10:23:18.70 [Worker-4] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+10:23:18.70 [Worker-4] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+10:23:18.86 [Worker-4] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 47 ms], [Extract Annotations = 16 ms], [Generate Sources = 16 ms], [Find R Classes = 15 ms], [Extract Manifest = 0 ms], [Validate Annotations = 0 ms], [Process Annotations = 0 ms], 
+10:23:18.86 [Worker-4] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+11:23:51.188 [Worker-38] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+11:23:51.188 [Worker-38] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 1 elements
+11:23:51.204 [Worker-38] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+11:23:51.204 [Worker-38] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+11:23:51.204 [Worker-38] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+11:23:51.204 [Worker-38] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+11:23:51.220 [Worker-38] INFO  o.a.p.ModelValidator:42 - Validating elements
+11:23:51.220 [Worker-38] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+11:23:51.220 [Worker-38] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+11:23:51.220 [Worker-38] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+11:23:51.220 [Worker-38] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+11:23:51.220 [Worker-38] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+11:23:51.220 [Worker-38] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+11:23:51.220 [Worker-38] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+11:23:51.220 [Worker-38] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+11:23:51.220 [Worker-38] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+11:23:51.235 [Worker-38] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 47 ms], [Extract Annotations = 16 ms], [Find R Classes = 16 ms], [Generate Sources = 15 ms], [Extract Manifest = 0 ms], [Validate Annotations = 0 ms], [Process Annotations = 0 ms], 
+11:23:51.235 [Worker-38] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+11:27:11.562 [Worker-2] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+11:27:11.673 [Worker-2] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 26 elements
+11:27:11.778 [Worker-2] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+11:27:11.782 [Worker-2] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+11:27:11.783 [Worker-2] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+11:27:11.879 [Worker-2] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+11:27:11.968 [Worker-2] INFO  o.a.p.ModelValidator:42 - Validating elements
+11:27:11.969 [Worker-2] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+11:27:11.975 [Worker-2] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+11:27:11.978 [Worker-2] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+11:27:11.991 [Worker-2] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+11:27:11.992 [Worker-2] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+11:27:12.42 [Worker-2] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+11:27:12.92 [Worker-2] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+11:27:12.96 [Worker-2] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+11:27:12.99 [Worker-2] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+11:27:12.151 [Worker-2] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 479 ms], [Find R Classes = 171 ms], [Process Annotations = 112 ms], [Extract Annotations = 101 ms], [Generate Sources = 59 ms], [Validate Annotations = 12 ms], [Extract Manifest = 8 ms], 
+11:27:12.152 [Worker-2] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+11:27:18.113 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+11:27:18.115 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 26 elements
+11:27:18.142 [Worker-7] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+11:27:18.144 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+11:27:18.145 [Worker-7] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+11:27:18.159 [Worker-7] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+11:27:18.166 [Worker-7] INFO  o.a.p.ModelValidator:42 - Validating elements
+11:27:18.167 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+11:27:18.168 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+11:27:18.169 [Worker-7] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+11:27:18.171 [Worker-7] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+11:27:18.171 [Worker-7] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+11:27:18.175 [Worker-7] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+11:27:18.178 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+11:27:18.179 [Worker-7] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+11:27:18.179 [Worker-7] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+11:27:18.184 [Worker-7] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 69 ms], [Extract Annotations = 25 ms], [Find R Classes = 21 ms], [Process Annotations = 8 ms], [Generate Sources = 6 ms], [Validate Annotations = 4 ms], [Extract Manifest = 2 ms], 
+11:27:18.184 [Worker-7] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing
+11:27:38.950 [Worker-4] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+11:27:57.199 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:83 - Initialize AndroidAnnotations 3.3.1 with options {phase=BUILD}
+11:27:57.199 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:107 - Start processing for 3 annotations on 26 elements
+11:27:57.214 [Worker-0] DEBUG o.a.h.AndroidManifestFinder:137 - AndroidManifest.xml file found in parent folder D:\Android\IM\JoinAndroidApp01: D:\Android\IM\JoinAndroidApp01\AndroidManifest.xml
+11:27:57.214 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:170 - AndroidManifest.xml found: AndroidManifest [applicationPackage=com.example.joinandroidapp01, componentQualifiedNames=[com.example.joinandroidapp01.MainActivity_], permissionQualifiedNames=[], applicationClassName=null, libraryProject=false, debugabble=false, minSdkVersion=8, maxSdkVersion=-1, targetSdkVersion=21]
+11:27:57.214 [Worker-0] INFO  o.a.r.ProjectRClassFinder:50 - Found project R class: com.example.joinandroidapp01.R
+11:27:57.230 [Worker-0] INFO  o.a.r.AndroidRClassFinder:44 - Found Android class: android.R
+11:27:57.230 [Worker-0] INFO  o.a.p.ModelValidator:42 - Validating elements
+11:27:57.230 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+11:27:57.230 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with ViewByIdHandler: [refreshLayout]
+11:27:57.230 [Worker-0] DEBUG o.a.p.ModelValidator:62 - Validating with AfterViewsHandler: [void init() ]
+11:27:57.230 [Worker-0] INFO  o.a.p.ModelProcessor:74 - Processing root elements
+11:27:57.230 [Worker-0] DEBUG o.a.p.ModelProcessor:176 - Processing root elements EActivityHandler: [com.example.joinandroidapp01.MainActivity]
+11:27:57.230 [Worker-0] INFO  o.a.p.ModelProcessor:86 - Processing enclosed elements
+11:27:57.245 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:249 - Number of files generated by AndroidAnnotations: 1
+11:27:57.245 [Worker-0] INFO  o.a.g.ApiCodeGenerator:52 - Writting following API classes in project: []
+11:27:57.245 [Worker-0] DEBUG o.a.g.SourceCodewriter:55 - Generating class: com.example.joinandroidapp01.MainActivity_
+11:27:57.245 [Worker-0] INFO  o.a.p.TimeStats:81 - Time measurements: [Whole Processing = 46 ms], [Find R Classes = 16 ms], [Extract Annotations = 15 ms], [Process Annotations = 15 ms], [Extract Manifest = 0 ms], [Validate Annotations = 0 ms], [Generate Sources = 0 ms], 
+11:27:57.245 [Worker-0] INFO  o.a.AndroidAnnotationProcessor:121 - Finish processing

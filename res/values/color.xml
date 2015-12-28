@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="WHITE">#FFFFFF</color>
+    <color name="red">#fe0000</color>
+    <color name="text_color_black">#666666</color>
+    <color name="txt_blue">#FF007CB0</color>
+    <color name="txt_gray">#FF575756</color>
+	<color name="black">#FF000000</color>
+	<color name="text_hint">#9fa2a2</color>
+	<color name="blue">#39afed</color>
+	<color name="offwhite">#d8d9da</color>
+	
+	  
+    <color name="jblue">#39afed</color>
+    <color name="jorange">#ea7901</color>
+    <color name="jgreen">#64bf34</color>
+    <color name="jred">#fb5255</color>
+    <color name="jyellow">#feffd7</color>
+    <color name="jtblack">#989899</color>
+    <color name="jgray">#908e8f</color>
+    <color name="jgray2">#e6e6e6</color>
+    <color name="jcyan2">#47915c</color>
+</resources>
